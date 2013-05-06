@@ -19,7 +19,7 @@ public class ProductService
    public List<String> getProducts()
    {
       ArrayList<String> rtn = new ArrayList<String>();
-      rtn.add("iphone");
+      rtn.add("iphone 5");
       rtn.add("ipad");
       rtn.add("ipod");
       rtn.add("iWatch");
