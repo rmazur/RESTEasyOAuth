@@ -22,6 +22,7 @@ public class ProductService
       rtn.add("iphone");
       rtn.add("ipad");
       rtn.add("ipod");
+      rtn.add("iWatch");
       return rtn;
    }
 }
